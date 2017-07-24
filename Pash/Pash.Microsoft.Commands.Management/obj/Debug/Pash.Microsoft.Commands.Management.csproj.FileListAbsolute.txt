@@ -1,0 +1,10 @@
+C:\work\NodeShellPlayground\pash-code-6-trunk\Pash\Pash.Microsoft.Commands.Management\bin\Debug\Microsoft.Commands.Management.dll
+C:\work\NodeShellPlayground\pash-code-6-trunk\Pash\Pash.Microsoft.Commands.Management\bin\Debug\Microsoft.Commands.Management.pdb
+C:\work\NodeShellPlayground\pash-code-6-trunk\Pash\Pash.Microsoft.Commands.Management\bin\Debug\System.Management.Automation.dll
+C:\work\NodeShellPlayground\pash-code-6-trunk\Pash\Pash.Microsoft.Commands.Management\bin\Debug\GoldParser.dll
+C:\work\NodeShellPlayground\pash-code-6-trunk\Pash\Pash.Microsoft.Commands.Management\bin\Debug\Pash.ConfigurationSection.dll
+C:\work\NodeShellPlayground\pash-code-6-trunk\Pash\Pash.Microsoft.Commands.Management\bin\Debug\System.Management.Automation.pdb
+C:\work\NodeShellPlayground\pash-code-6-trunk\Pash\Pash.Microsoft.Commands.Management\bin\Debug\Pash.ConfigurationSection.pdb
+C:\work\NodeShellPlayground\pash-code-6-trunk\Pash\Pash.Microsoft.Commands.Management\obj\Debug\Pash.Microsoft.Commands.Management.csprojResolveAssemblyReference.cache
+C:\work\NodeShellPlayground\pash-code-6-trunk\Pash\Pash.Microsoft.Commands.Management\obj\Debug\Microsoft.Commands.Management.dll
+C:\work\NodeShellPlayground\pash-code-6-trunk\Pash\Pash.Microsoft.Commands.Management\obj\Debug\Microsoft.Commands.Management.pdb

@@ -1,0 +1,15 @@
+C:\work\NodeShellPlayground\pash-code-6-trunk\Pash\PashConsole\bin\Debug\Pash.exe.config
+C:\work\NodeShellPlayground\pash-code-6-trunk\Pash\PashConsole\bin\Debug\Pash.exe
+C:\work\NodeShellPlayground\pash-code-6-trunk\Pash\PashConsole\bin\Debug\Pash.pdb
+C:\work\NodeShellPlayground\pash-code-6-trunk\Pash\PashConsole\bin\Debug\Microsoft.Commands.Management.dll
+C:\work\NodeShellPlayground\pash-code-6-trunk\Pash\PashConsole\bin\Debug\Microsoft.PowerShell.Commands.Utility.dll
+C:\work\NodeShellPlayground\pash-code-6-trunk\Pash\PashConsole\bin\Debug\System.Management.Automation.dll
+C:\work\NodeShellPlayground\pash-code-6-trunk\Pash\PashConsole\bin\Debug\GoldParser.dll
+C:\work\NodeShellPlayground\pash-code-6-trunk\Pash\PashConsole\bin\Debug\Pash.ConfigurationSection.dll
+C:\work\NodeShellPlayground\pash-code-6-trunk\Pash\PashConsole\bin\Debug\Microsoft.Commands.Management.pdb
+C:\work\NodeShellPlayground\pash-code-6-trunk\Pash\PashConsole\bin\Debug\Microsoft.PowerShell.Commands.Utility.pdb
+C:\work\NodeShellPlayground\pash-code-6-trunk\Pash\PashConsole\bin\Debug\System.Management.Automation.pdb
+C:\work\NodeShellPlayground\pash-code-6-trunk\Pash\PashConsole\bin\Debug\Pash.ConfigurationSection.pdb
+C:\work\NodeShellPlayground\pash-code-6-trunk\Pash\PashConsole\obj\Debug\PashConsole.csprojResolveAssemblyReference.cache
+C:\work\NodeShellPlayground\pash-code-6-trunk\Pash\PashConsole\obj\Debug\Pash.exe
+C:\work\NodeShellPlayground\pash-code-6-trunk\Pash\PashConsole\obj\Debug\Pash.pdb

@@ -1,0 +1,10 @@
+C:\work\NodeShellPlayground\pash-code-6-trunk\Pash\Pash.Microsoft.PowerShell.Commands.Utility\obj\Debug\Pash.Microsoft.PowerShell.Commands.Utility.csprojResolveAssemblyReference.cache
+C:\work\NodeShellPlayground\pash-code-6-trunk\Pash\Pash.Microsoft.PowerShell.Commands.Utility\bin\Debug\Microsoft.PowerShell.Commands.Utility.dll
+C:\work\NodeShellPlayground\pash-code-6-trunk\Pash\Pash.Microsoft.PowerShell.Commands.Utility\bin\Debug\Microsoft.PowerShell.Commands.Utility.pdb
+C:\work\NodeShellPlayground\pash-code-6-trunk\Pash\Pash.Microsoft.PowerShell.Commands.Utility\bin\Debug\System.Management.Automation.dll
+C:\work\NodeShellPlayground\pash-code-6-trunk\Pash\Pash.Microsoft.PowerShell.Commands.Utility\bin\Debug\GoldParser.dll
+C:\work\NodeShellPlayground\pash-code-6-trunk\Pash\Pash.Microsoft.PowerShell.Commands.Utility\bin\Debug\Pash.ConfigurationSection.dll
+C:\work\NodeShellPlayground\pash-code-6-trunk\Pash\Pash.Microsoft.PowerShell.Commands.Utility\bin\Debug\System.Management.Automation.pdb
+C:\work\NodeShellPlayground\pash-code-6-trunk\Pash\Pash.Microsoft.PowerShell.Commands.Utility\bin\Debug\Pash.ConfigurationSection.pdb
+C:\work\NodeShellPlayground\pash-code-6-trunk\Pash\Pash.Microsoft.PowerShell.Commands.Utility\obj\Debug\Microsoft.PowerShell.Commands.Utility.dll
+C:\work\NodeShellPlayground\pash-code-6-trunk\Pash\Pash.Microsoft.PowerShell.Commands.Utility\obj\Debug\Microsoft.PowerShell.Commands.Utility.pdb
